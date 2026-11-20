@@ -57,7 +57,7 @@ This project explores sales transaction data and transforms it into meaningful b
 |---|---|
 | `sales_analysis.xlsx` | Original sales dataset |
 | `Sales_Performance_Dashboard.pbix` | Power BI dashboard file |
-| `dashboard_screenshot.png` | Dashboard preview |
+| `dashboard_screenshot.png.` | Dashboard preview |
 
 ## Skills Demonstrated
 
